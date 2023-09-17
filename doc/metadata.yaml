@@ -1,4 +1,5 @@
-description: null
+description: The processor module for MICROCHIP PIC16F87x in TQFP44 package consists
+  of processor, headers, programming header and RESET push button.
 github_branch: PIC16F87xTQ4401B
 github_repo: PIC16F87xTQ4401
 github_url: https://github.com/mlab-modules/PIC16F87xTQ4401
